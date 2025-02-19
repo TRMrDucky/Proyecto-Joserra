@@ -1,0 +1,10 @@
+com\spotify\dtos\RegistrarArtistaDTO.class
+com\spotify\presentacion\RegistroArtista.class
+com\spotify\presentacion\CatalogoArtistas.class
+com\spotify\persistencia\ArtistasDAO.class
+com\spotify\control\controlRegistrarArtistas.class
+com\spotify\Spotify.class
+com\spotify\persistencia\ManejadorConexiones.class
+com\spotify\presentacion\CatalogoArtistas$1.class
+com\spotify\entidades\Artista.class
+com\spotify\presentacion\RegistroArtista$1.class
